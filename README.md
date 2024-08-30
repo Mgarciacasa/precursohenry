@@ -1,2 +1,1 @@
-# precursohenry
-este es un repositorio nuevo 
+este proyecto es una prueba para clonar 
